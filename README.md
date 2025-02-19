@@ -2,10 +2,11 @@
 
 Bienvenido al taller de Git y GitHub. Aquí encontrarás toda la información que veremos en las sesiones.
 
+👉 [Accede al sitio web del taller](https://diegorup.github.io/tallerUAA-git)
+
 ## 📌 Contenido
 
 - [Planeación](planeacion.md)
-
 - [Día 1: Fundamentos de Git](dia1.md)
 - [Día 2: Trabajo colaborativo y buenas prácticas](dia2.md)
 - [Día 3: Herramientas y automatización](dia3.md)
